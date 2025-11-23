@@ -1,8 +1,7 @@
 # 📡 RF Signal Detector
 
 <div align="center">
-
-![RF Signal Detector Banner](https://via.placeholder.com/800x200/1a1a1a/ffffff?text=RF+Signal+Detector+%F0%9F%93%A1)
+<img src="assets/rf_banner.png" alt="RF Signal Detector Banner" width="800">
 
 **Advanced Wireless Signal Detection and Analysis Tool**
 
@@ -11,7 +10,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey.svg)
 ![Python](https://img.shields.io/badge/Python-3.7+-yellow.svg)
-
 </div>
 
 ---
