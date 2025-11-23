@@ -1,0 +1,11 @@
+# Basic scan
+rf-detector scan
+
+# Advanced scanning with save
+rf-detector scan -b 5G -t 60 -o scan_results.json
+
+# Analyze results
+rf-detector analyze -f scan_results.json
+
+# Monitor specific channel
+rf-detector monitor -c 6 -t 300

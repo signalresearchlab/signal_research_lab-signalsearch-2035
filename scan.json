@@ -1,0 +1,121 @@
+{
+  "devices": [
+    {
+      "channel": 1,
+      "strength": -24,
+      "ssid": "Linksys",
+      "band": "2.4G",
+      "security": "Open",
+      "first_seen": "2025-11-23T22:28:59.929241",
+      "last_seen": "2025-11-23T22:28:59.929244"
+    },
+    {
+      "channel": 12,
+      "strength": -50,
+      "ssid": "Public_WiFi",
+      "band": "2.4G",
+      "security": "WEP",
+      "first_seen": "2025-11-23T22:29:00.429397",
+      "last_seen": "2025-11-23T22:29:00.429470"
+    },
+    {
+      "channel": 10,
+      "strength": -43,
+      "ssid": "AndroidAP",
+      "band": "2.4G",
+      "security": "Open",
+      "first_seen": "2025-11-23T22:29:00.929726",
+      "last_seen": "2025-11-23T22:29:00.929758"
+    },
+    {
+      "channel": 11,
+      "strength": -31,
+      "ssid": "Home_Network",
+      "band": "2.4G",
+      "security": "WPA3",
+      "first_seen": "2025-11-23T22:29:03.430213",
+      "last_seen": "2025-11-23T22:29:03.430244"
+    },
+    {
+      "channel": 5,
+      "strength": -63,
+      "ssid": "NETGEAR",
+      "band": "2.4G",
+      "security": "Open",
+      "first_seen": "2025-11-23T22:29:03.930519",
+      "last_seen": "2025-11-23T22:29:03.930552"
+    },
+    {
+      "channel": 7,
+      "strength": -50,
+      "ssid": "AndroidAP",
+      "band": "2.4G",
+      "security": "WPA3",
+      "first_seen": "2025-11-23T22:29:04.430796",
+      "last_seen": "2025-11-23T22:29:04.430827"
+    },
+    {
+      "channel": 3,
+      "strength": -74,
+      "ssid": "TP-Link_ABCD",
+      "band": "2.4G",
+      "security": "WPA3",
+      "first_seen": "2025-11-23T22:29:06.931136",
+      "last_seen": "2025-11-23T22:29:06.931166"
+    },
+    {
+      "channel": 5,
+      "strength": -50,
+      "ssid": "NETGEAR",
+      "band": "2.4G",
+      "security": "WPA3",
+      "first_seen": "2025-11-23T22:29:07.431383",
+      "last_seen": "2025-11-23T22:29:07.431440"
+    },
+    {
+      "channel": 11,
+      "strength": -32,
+      "ssid": "Guest",
+      "band": "2.4G",
+      "security": "WPA3",
+      "first_seen": "2025-11-23T22:29:07.931621",
+      "last_seen": "2025-11-23T22:29:07.931632"
+    }
+  ],
+  "scan_info": {
+    "band": "2.4G",
+    "channels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "start_time": "2025-11-23T22:28:59.929160",
+    "duration": 10
+  },
+  "summary": {
+    "total_signals": 9,
+    "avg_strength": -46,
+    "max_strength": -24,
+    "min_strength": -74,
+    "channels": [
+      1,
+      3,
+      5,
+      7,
+      10,
+      11,
+      12
+    ],
+    "duration": 10
+  }
+}

@@ -1,0 +1,2 @@
+[console_scripts]
+rf-detector = rf_detector.cli:main

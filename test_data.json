@@ -1,0 +1,93 @@
+{
+  "devices": [
+    {
+      "channel": 6,
+      "strength": -43,
+      "ssid": null,
+      "band": "2.4G",
+      "security": "WEP",
+      "first_seen": "2025-11-23T22:27:01.023429",
+      "last_seen": "2025-11-23T22:27:01.023432"
+    },
+    {
+      "channel": 5,
+      "strength": -76,
+      "ssid": "AndroidAP",
+      "band": "2.4G",
+      "security": "WPA2",
+      "first_seen": "2025-11-23T22:27:01.523522",
+      "last_seen": "2025-11-23T22:27:01.523535"
+    },
+    {
+      "channel": 11,
+      "strength": -44,
+      "ssid": "NETGEAR",
+      "band": "2.4G",
+      "security": "WEP",
+      "first_seen": "2025-11-23T22:27:02.023757",
+      "last_seen": "2025-11-23T22:27:02.023790"
+    },
+    {
+      "channel": 4,
+      "strength": -37,
+      "ssid": null,
+      "band": "2.4G",
+      "security": "WPA2",
+      "first_seen": "2025-11-23T22:27:04.524306",
+      "last_seen": "2025-11-23T22:27:04.524346"
+    },
+    {
+      "channel": 10,
+      "strength": -79,
+      "ssid": "ATTWiFi",
+      "band": "2.4G",
+      "security": "Open",
+      "first_seen": "2025-11-23T22:27:05.024607",
+      "last_seen": "2025-11-23T22:27:05.024636"
+    },
+    {
+      "channel": 13,
+      "strength": -38,
+      "ssid": "iPhone",
+      "band": "2.4G",
+      "security": "WPA2",
+      "first_seen": "2025-11-23T22:27:05.524828",
+      "last_seen": "2025-11-23T22:27:05.524840"
+    }
+  ],
+  "scan_info": {
+    "band": "2.4G",
+    "channels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "start_time": "2025-11-23T22:27:01.023372",
+    "duration": 5
+  },
+  "summary": {
+    "total_signals": 6,
+    "avg_strength": -52,
+    "max_strength": -37,
+    "min_strength": -79,
+    "channels": [
+      4,
+      5,
+      6,
+      10,
+      11,
+      13
+    ],
+    "duration": 5
+  }
+}

@@ -1,0 +1,11 @@
+rf-detector/
+├── setup.py
+├── requirements.txt
+├── README.md
+├── rf_detector/
+│   ├── __init__.py
+│   ├── cli.py
+│   ├── detector.py
+│   └── visualizer.py
+└── scripts/
+    └── install.sh
