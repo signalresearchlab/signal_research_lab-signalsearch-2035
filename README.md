@@ -2,16 +2,15 @@
 
 <div align="center">
 
-![Banner](https://via.placeholder.com/800x200/1a1a1a/ffffff?text=RF+Signal+Detector+%F0%9F%93%A1)
+![RF Signal Detector Banner](https://via.placeholder.com/800x200/1a1a1a/ffffff?text=RF+Signal+Detector+%F0%9F%93%A1)
 
 **Advanced Wireless Signal Detection and Analysis Tool**
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
+![Free](https://img.shields.io/badge/Cost-Free-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey.svg)
 ![Python](https://img.shields.io/badge/Python-3.7+-yellow.svg)
-
-Professional RF signal analysis for security research and network management.
 
 </div>
 
@@ -24,7 +23,6 @@ Professional RF signal analysis for security research and network management.
 curl -sSL https://raw.githubusercontent.com/yourusername/rf-signal-detector/main/scripts/install.sh | bash
 source rf_detector_venv/bin/activate
 rf-detector scan
-
 
 📖 Overview
 
